@@ -1,0 +1,8 @@
+export default function ChatA() {
+  return (
+    <div className="min-h-screen p-6 bg-white">
+      <h1 className="text-2xl font-bold mb-4">Chat Room A</h1>
+      <p>You are in Chat A. Token gating will be added next.</p>
+    </div>
+  );
+}
